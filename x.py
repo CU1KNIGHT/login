@@ -29,7 +29,7 @@ def insert_book(USERNAME, PASSWORD):
 
 
 def main():
-    insert_book('mody', '1234')
+    insert_book('diaa', 'spaet')
 
 
 if __name__ == '__main__':
